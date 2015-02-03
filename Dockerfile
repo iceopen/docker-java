@@ -1,5 +1,5 @@
 # Pull base image.
-FROM iceinto/ubuntu
+FROM dockerfile/ubuntu
 
 # Install Java.
 RUN \
